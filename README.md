@@ -18,4 +18,4 @@ Techs that I've used at least once
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img alt="Python" src ="https://img.shields.io/badge/python-#3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src ="https://img.shields.io/badge/python-#3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
