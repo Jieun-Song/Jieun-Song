@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 ## Tech Stacks
 Techs that I've used at least once
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 - 🔭 I currently belong to Myongji-Univ
 - 🌱 I’m currently learning ...
@@ -18,3 +17,4 @@ Techs that I've used at least once
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
