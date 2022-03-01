@@ -13,3 +13,4 @@
     <img src="https://img.shields.io/badge/JavaScript-FFE400?style=flat-square&logo=JavaScript&logoColor=#000000"/></a>&nbsp
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=#000000"/></a>&nbsp
     <img src="https://img.shields.io/badge/nest.js-E0234E?style=flat-square&logo=NestJS&logoColor=#000000"/></a>&nbsp
+</p>
